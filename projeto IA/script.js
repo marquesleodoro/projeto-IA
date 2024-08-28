@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: " "
+                afirmacao: "é ótimo, pois essas tecnologias pode nos ser útil ate mesmo fora do colégio, na vida profissional etc."
             }
         ]
     },
